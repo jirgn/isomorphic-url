@@ -8,7 +8,7 @@
   "scripts": {
     "lint": "eslint ./src"
   },
-  "keywords": [],
+  "keywords": ["polyfill","url"],
   "author": "jirgn<jirgn76@googlemail.com>",
   "dependencies": {
     "url-polyfill": "^1.0.7"
